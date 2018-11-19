@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    // sayac tanımlandı.
     var flipCount : Int = 0{
         
         // değer kaydedilmeden önceki kullanım
@@ -20,11 +21,14 @@ class ViewController: UIViewController {
     }
   
     
+    // label tanımlama
     @IBOutlet weak var flipCountLabel: UILabel!
     
     
+    // buttonlar ile array tanımlama
     @IBOutlet var cardButtons: [UIButton]!
     
+    // emojileri ekleme
     var emojiChoices : Array<String> = ["🎃","👻","🎃","👻"]
     @IBAction func touchCard(_ sender: UIButton){
         flipCount += 1
