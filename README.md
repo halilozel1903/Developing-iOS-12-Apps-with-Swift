@@ -1,6 +1,6 @@
 # Developing iOS 12 Apps with Swift 4.2
 
-It is a repo of the projects and examples described in the CS193P course at Stanford University.
+It's a repo of the projects and examples described in the CS193P course at Stanford University.
 
 ### Lecture 1 : Introduction to iOS12 XCode 10 and Swift4.2
 In the first part of the course, Michel Deiman iOS general structure and course content are mentioned.
