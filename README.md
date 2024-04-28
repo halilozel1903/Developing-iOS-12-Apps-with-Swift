@@ -1,4 +1,4 @@
-# Developing iOS 12 Apps with Swift 4.2
+# Developing iOS 12 Apps with Swift
 
 It's a repo of the projects and examples described in the `CS193P` course at Stanford University.
 
