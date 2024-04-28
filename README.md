@@ -2,7 +2,7 @@
 
 It's a repo of the projects and examples described in the `CS193P` course at Stanford University.
 
-## Lecture 1 : Introduction to iOS12 XCode 10 and Swift4.2
+## Lecture 1 : Introduction to iOS12 XCode 10 and Swift
 In the first part of the course, Michel Deiman iOS general structure and course content are mentioned.
 Then he shows the board demo version of the card matching game and says we will do a similar project.
 It opens XCode and mentions it. How can we give a name to our project and do what it says on the board in software?
