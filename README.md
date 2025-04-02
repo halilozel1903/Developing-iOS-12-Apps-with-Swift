@@ -1,8 +1,6 @@
-# Developing iOS 12 Apps with Swift
+# 🃏 Card Matching Game – iOS12 & Swift (Xcode 10)
 
 It's a repo of the projects and examples described in the `CS193P` course at Stanford University.
-
-🃏 Card Matching Game – iOS12 & Swift (Xcode 10)
 
 📚 Lecture 1: Introduction to iOS12, Xcode 10, and Swift
 
