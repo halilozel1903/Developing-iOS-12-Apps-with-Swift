@@ -2,7 +2,7 @@
 
 It's a repo of the projects and examples described in the `CS193P` course at Stanford University.
 
-📚 Lecture 1: Introduction to iOS12, Xcode 10, and Swift
+## 📚 Lecture 1: Introduction to iOS12, Xcode 10, and Swift
 
 An overview of the iOS ecosystem and course objectives is provided, followed by a demonstration of a simple card matching game concept using a board example.
 
