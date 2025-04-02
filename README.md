@@ -8,7 +8,8 @@ An overview of the iOS ecosystem and course objectives is provided, followed by 
 
 The process of creating a new project in Xcode is explained step by step, including how to name the project and replicate the board setup in code.
 The initial version of the "Card Matching" game is constructed using 4 buttons and 1 label, laying the foundation for the UI.
-🧩 Lecture 2: MVC (Model - View - Controller)
+
+## 🧩 Lecture 2: MVC (Model - View - Controller)
 
 This section introduces the MVC architectural pattern, supported by educational materials and visual aids.
 A theoretical explanation is followed by practical implementation within the existing project.
